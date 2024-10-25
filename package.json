@@ -1,0 +1,17 @@
+{
+  "name": "proyectvictory",
+  "version": "0.0.1",
+  "description": "Proyect node from a side proyect",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Thars001",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
